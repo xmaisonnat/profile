@@ -1,0 +1,69 @@
+body {
+  /*font-family: 'EB Garamond', serif;*/
+  background-color: #2b2b2b;
+  color: #b0b0b0;
+  line-height: 25px;
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Kosugi Maru', sans-serif;
+}
+
+h3 {
+  font-family: 'EB Garamond', serif;
+}
+
+ul {
+  line-height: 15px;
+}
+
+img:hover{
+  filter: grayscale(100%);
+}
+
+#japan {
+  text-align: left;
+  width: 100px;
+  height: 50px;
+}
+
+#profile{
+  text-align: center;
+}
+
+#english{
+  text-align: right;
+  width: 100px;
+  height: 50%;
+}
+
+.profile {
+  display: inline-block;
+}
+
+.passions{
+  line-height: 0px;
+  margin: 60px 0 0 0;
+}
+
+.passions p {
+  margin: 0 0 15 0;
+}
+
+.card{
+  display: inline-block;
+  padding: 0px 20px;
+}
+
+.CGG{
+  margin: 60px 0 0 0;
+}
+
+.CGG h3 {
+  margin: 0;
+}
+
+.CGG p {
+  margin: 0 0 15 0;
+}
